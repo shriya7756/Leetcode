@@ -40,3 +40,4 @@ if __name__ == "__main__":
 
     depth1 = sol.maxDepth(root1)
     print(f"Example 1 Output: {depth1}")  # Expected output: 3
+

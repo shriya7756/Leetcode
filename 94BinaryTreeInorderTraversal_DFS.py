@@ -41,3 +41,4 @@ if __name__ == "__main__":
     # Running your solution
     sol = Solution()
     print(sol.inorderTraversal(root))  # Output should be: [1, 3, 2]
+

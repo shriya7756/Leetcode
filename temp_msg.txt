@@ -1,0 +1,3 @@
+added a file to Leetcode
+
+Files: LongestRepeatingCharacterReplacement424.py

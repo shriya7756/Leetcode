@@ -14,3 +14,4 @@ class Solution:
             else:
                 # We found the point where they split or where one is the ancestor of the other
                 return cur
+

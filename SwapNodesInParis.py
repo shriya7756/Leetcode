@@ -24,3 +24,4 @@ class Solution:
             head = first.next
 
         return dummy.next
+

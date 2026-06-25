@@ -41,3 +41,4 @@ if __name__ == "__main__":
     
     print(f"Right side view: {result}") 
     # Expected output: Right side view: [1, 3, 4]
+

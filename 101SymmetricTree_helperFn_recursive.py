@@ -55,3 +55,4 @@ if __name__ == "__main__":
     result2 = sol.isSymmetric(root2)
     print(f"Is tree 2 symmetric? {result2}") 
     # Expected output: False
+

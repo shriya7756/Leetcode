@@ -9,3 +9,4 @@ class Solution:
             else:
                 r=r-1
         return maxarea
+

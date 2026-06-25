@@ -58,3 +58,4 @@ if __name__ == "__main__":
     
     result2 = sol.isValidBST(root2)
     print(f"Tree 2 is valid: {result2} (Expected: False)")
+

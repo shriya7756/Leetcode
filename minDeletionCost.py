@@ -8,3 +8,4 @@ class Solution:
       
 s=Solution()
 s.minCost("aabaac",[1,2,3,4,1,10])
+

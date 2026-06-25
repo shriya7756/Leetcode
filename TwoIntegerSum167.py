@@ -10,3 +10,4 @@ class Solution:
                     l=l+1
                 else:
                     r=r-1
+

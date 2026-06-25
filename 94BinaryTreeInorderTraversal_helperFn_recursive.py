@@ -50,3 +50,4 @@ if __name__ == "__main__":
     # Run the function and print the result
     result = sol.inorderTraversal(node1)
     print(f"Inorder Traversal Output: {result}")  # Expected Output: [1, 3, 2]
+

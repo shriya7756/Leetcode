@@ -27,3 +27,4 @@ class Solution:
                 boxes[box_index].add(val)
 
         return True
+

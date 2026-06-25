@@ -50,3 +50,4 @@ if __name__ == "__main__":
     result = sol.levelOrder(root)
     print(f"Level order traversal: {result}") 
     # Expected output: [[3], [9, 20], [15, 7]]
+

@@ -22,3 +22,4 @@ class Solution:
                     while j < k and nums[k] == nums[k + 1]:
                         k -= 1
         return res
+

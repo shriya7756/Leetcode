@@ -59,3 +59,4 @@ if __name__ == "__main__":
 
     print(f"Is tree 2 symmetric? {sol.isSymmetric(root2)}") 
     # Expected output: False
+
